@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 One thing to be writed
 Hi this is onw t be experimented
+=======
+Hi this kjabsjfsb
+noahsiohn eihkvnk
+biuuifjkbejfb
+njnkjc jefjk e
+This is editted file where i need to clone and get this updated back to the local repository
+Testing this file for checking thedifference between the local repository and /git server
+How is this possible of diff
+>>>>>>> 2f2c9aca2789054686660e635058eeb486147d7f
